@@ -10,25 +10,25 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         List{
-            VStack {
+            HStack {
                 Image(systemName: "globe")
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
-                Text("Hello, world!")
+                Text("William!")
             }
 
-            VStack {
+            HStack {
                 Image(systemName: "globe")
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
-                Text("Hello, world!")
+                Text("Irene!")
             }
 
-            VStack {
+            HStack {
                 Image(systemName: "globe")
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
-                Text("Hello, world!")
+                Text("Evelyn!")
             }
 
         }
