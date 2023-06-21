@@ -30,6 +30,8 @@ struct ContentView: View {
                     .foregroundColor(.accentColor)
                 Text("Evelyn!")
             }
+            
+            Spacer()
 
         }
         .padding()
