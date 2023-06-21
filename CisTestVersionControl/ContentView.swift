@@ -14,21 +14,21 @@ struct ContentView: View {
                 Image(systemName: "globe")
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
-                Text("William!")
+                Text("Cis")
             }
 
             HStack {
                 Image(systemName: "globe")
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
-                Text("Irene!")
+                Text("Cheese")
             }
 
             HStack {
                 Image(systemName: "globe")
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
-                Text("Evelyn!")
+                Text("Keju")
             }
             
             Spacer()
