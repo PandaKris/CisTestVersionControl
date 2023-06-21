@@ -15,6 +15,7 @@ struct ContentView: View {
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
                 Text("Cis Ganteng")
+                Text("EVELYN")
             }
 
             HStack {
@@ -30,6 +31,8 @@ struct ContentView: View {
                     .foregroundColor(.accentColor)
                 Text("Keju")
             }
+            
+            Spacer()
 
         }
         .padding()
