@@ -16,6 +16,7 @@ struct ContentView: View {
                     .foregroundColor(.accentColor)
                 Text("Cis Ganteng")
                 Text("EVELYN")
+                Rectangle()
             }
 
             HStack {
