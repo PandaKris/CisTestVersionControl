@@ -15,7 +15,7 @@ struct ContentView: View {
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
                 Text("Cis Ganteng")
-                Text("EVELYN")
+                Text("EVELYN OK LAH")
                 Rectangle()
             }
 
